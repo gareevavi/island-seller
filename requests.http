@@ -1,37 +1,37 @@
 //все острова
-http://localhost:8888/islands
+https://island-seller.herokuapp.com/islands
 
 ###
 
 //By id
-http://localhost:8888/islands/1
+https://island-seller.herokuapp.com/islands/1
 
 ###
 
 //Saerch
-http://localhost:8888/islands/search/Woodgrass
+https://island-seller.herokuapp.com/islands/search/Woodgrass
 
 ###
 
 //By id region
-http://localhost:8888/islands/region/3
+https://island-seller.herokuapp.com/islands/region/3
 
 ###
 
 //By id country
-http://localhost:8888/islands/country/2
+https://island-seller.herokuapp.com/islands/country/2
 
 ###
 
 //save
-http://localhost:8888/islands/0/save?name=testSAVE&regionId=2&countryId=2&price=100&size=200
+https://island-seller.herokuapp.com/islands/0/save?name=testSAVE&regionId=2&countryId=2&price=100&size=200
 
 ###
 
 //update
-http://localhost:8888/islands/4/save?name=testUPDATE&regionId=1&countryId=1&price=10&size=20
+https://island-seller.herokuapp.com/islands/4/save?name=testUPDATE&regionId=1&countryId=1&price=10&size=20
 
 ###
 
 //remove
-http://localhost:8888/islands/4/remove
+https://island-seller.herokuapp.com/islands/4/remove
